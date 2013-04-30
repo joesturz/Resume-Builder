@@ -1,0 +1,124 @@
+@CHARSET "ISO-8859-1";
+
+/* Joseph Sturzenegger u0378425 ps3 */
+
+h1 {
+	text-align: center;
+	font-family: Helvetica, Verdana, Arial, Sans-serif;
+	color: blue;
+	}
+
+hr {
+	size: 10px;
+	width: 100%;
+	}
+	
+fieldset {
+	width: 250px;
+	text-align: center;
+	margin-left:auto;
+	margin-right: auto;
+	}
+	
+a {
+	text-decoration: none;
+	font-family: Helvetica, Verdana, Arial, Sans-serif;
+	font-color: blue;
+	}
+	
+
+#Menu {
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+	border-style: solid;
+	border-color: black;
+	background-color: white;
+	font-family: Arial, Verdana, Sans-serif;
+	color: blue;
+	size: 15px;
+	text-align: center;
+	}
+	
+ .MenuLink {
+ 	font-weight: bold;
+ }
+
+	
+	
+#Content {
+	margin-left: auto;
+	margin-right: auto;
+	width: 600px;
+	border-style: solid;
+	border-width:1px;
+	background-color: white ;
+	
+	
+	}
+
+table {
+	align: center;
+}
+
+.PhoneArea {
+	align: center;
+	}
+
+.menuTitle {
+	text-align: center;
+	font-weight: bold;
+	}
+	
+#FullName {
+	width: 200px;
+	}
+
+#Address {
+	width: 400px;
+	}
+	
+#PhoneArea {
+	position: absolute;
+	left: 200px;
+	}
+	
+.RName {
+	font-weight: bold;
+	text-align: center;
+	color: black;
+	font-size: 30px;
+	}
+	
+.RAddress {
+	font-weight: normal;
+	text-align: center;
+	color: black;
+	font-size: 20px;
+}
+
+.RBody {
+	border-style: solid;
+	border-size: 1px;
+	padding: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 700px;
+	align: center;
+	}
+	
+.RPhones {
+	text-align: center;
+	font-size: 15px;
+	}
+	
+.FBody {
+		border-style: solid;
+	border-size: 1px;
+	padding: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 1000px;
+	align: center;
+	}
+
