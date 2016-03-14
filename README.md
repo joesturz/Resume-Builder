@@ -1,5 +1,5 @@
 # Resume-Builder
-A website built in php that builds a simple resume
+A website built in PHP that builds a simple resume.
 
 This was a project to create a website that builds a simple resume. 
 
